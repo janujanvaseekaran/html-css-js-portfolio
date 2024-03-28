@@ -63,7 +63,7 @@ body {
     position: relative;
     display: inline-block;
     font-size: 18px;
-    color: #fff;
+    color: #000;
     text-decoration: none;
     font-weight: 500;
     margin-right: 35px;
@@ -285,10 +285,10 @@ body {
     right: 0;
     width: 0;
     height: 0;
-    border-top: 384px solid var(--main-color);
-    border-right: 384px solid var(--main-color);
-    border-bottom: 384px solid var(--main-color);
-    border-left: 384px solid transparent;
+    border-top: 394px solid var(--main-color);
+    border-right: 394px solid var(--main-color);
+    border-bottom: 394px solid var(--main-color);
+    border-left: 394px solid transparent;
     opacity: 0;
     animation: slideLeft 1s ease forwards;
     animation-delay: 1.5s;
