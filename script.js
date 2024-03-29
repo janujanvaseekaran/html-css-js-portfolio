@@ -12,6 +12,7 @@ toggleIcon.addEventListener('click', () => {
 })
 
 
+
 var swiper = new Swiper(".mySwiper", {
     slidesPerView: 1,
     spaceBetween: 50,
