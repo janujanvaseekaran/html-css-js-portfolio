@@ -516,12 +516,14 @@ span {
 
 .portfolio-layer h4 {
     font-size: 3rem;
+    color: #000;
 
 }
 
 .portfolio-layer p {
     font-size: 1.6rem;
     margin: .3rem 0 1rem;
+    color: #000;
 }
 
 .portfolio-layer a {
